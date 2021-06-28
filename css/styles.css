@@ -1,0 +1,76 @@
+.teg{
+  background-color:#000;
+ align:center;
+  padding: 5px 10px;
+  border-radius:10px;
+  margin-left:100px;
+  margin-right:100px;
+   
+}
+body{
+color:white;
+  background-color:#FF3733;
+  border-color:black;
+  border-width:2px;
+  border-radius:10px;
+  
+}
+.pht{
+  box-shadow:10px 10px 10px #fff;
+  border-radius:50%;
+   transition: transform .2s;
+}
+.nam{
+  color:white;
+}
+header{
+  color:white;
+  font-family:	cursive ;
+}
+
+.suk{
+  box-shadow:2px 2px  #fff;
+  background-color:black;
+  border-color:red;
+  width:100%;
+  
+}
+#xy1{
+  background-color:blue ;
+  width:100%;
+  padding:10px;
+  
+}
+.radhe{
+  background-color:white;
+  border-radius:10px;
+  border-width: 2px green;
+}td{
+  padding:0px 10px;
+  color:#fff;
+  
+   
+}
+#footer{
+  background-color:black;
+  padding: 10px 10px;
+  padding-left:400px;
+  
+}
+.radhe:hover {
+  background-color: yellow;
+}
+
+
+.zoom:hover {
+  transform: scale(1.25); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  background-color:yellow;
+  border-radius:50%;
+}
+.mydiv{
+  margin-bottom:10px;
+}
+.sty{
+  color:yellow;
+  font-size:120%;
+}
