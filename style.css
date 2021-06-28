@@ -8,9 +8,9 @@
    
 }
 body{
-color:white;
-  background-color:#FF3733;
-  border-color:black;
+color:#fff;
+  background-color:#FF3733!important;
+  border-color:#000000;
   border-width:2px;
   border-radius:10px;
   
@@ -42,7 +42,7 @@ header{
   
 }
 .radhe{
-  background-color:white;
+  background-color:#fff!important;
   border-radius:10px;
   border-width: 2px green;
 }td{
